@@ -6,3 +6,9 @@
 ==================
   * Changed JSON key color
   * Added CHANGELOG.md
+
+1.0.2 / 2017-04-18
+==================
+  * Change package.json
+  * Change displayName
+  
