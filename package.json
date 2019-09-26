@@ -1,24 +1,33 @@
 {
-    "name": "theme-monokai-darker",
-    "displayName": "Theme Monokai Darker",
-    "private": true,
-    "version": "1.0.3",
-    "description": "Theme Monokai Darker",
-    "publisher": "chrisgfortes",
-    "repository": {
-        "url": "https://github.com/chrisgfortes/theme-monokai-darker-vscode",
-        "type": "git"
-    },
-    "engines": {
-        "vscode": "*"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "Monokai Darker",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Monokai-darker.tmTheme"
-            }
-        ]
-    }
+  "name": "theme-monoker",
+  "displayName": "Theme Monoker",
+  "version": "1.0.3",
+  "description": "Theme Monoker",
+  "publisher": "chrisgfortes",
+  "license": "MIT",
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Monoker",
+    "Monoker Theme"
+  ],
+  "repository": {
+    "url": "https://github.com/chrisgfortes/theme-monokai-darker-vscode",
+    "type": "git"
+  },
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monoker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monoker-color-theme.json"
+      }
+    ]
+  }
 }
